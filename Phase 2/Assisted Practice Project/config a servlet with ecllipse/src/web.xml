@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sevlet>
+<servlet-name>call</servlet-name>
+<servlet-class>com.servletconfig.program</servlet-class>
+</sevlet>
+
+
+<servlet-mapping>
+<servlet-name>call</servlet_name>
+<url-pattern>/home</url-pattern>
+</servlet-mapping>
